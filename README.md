@@ -55,7 +55,8 @@ print("List C (gabungan A dan B):", C)
 
 ## Output
 
-![Alt text](latihan.png)
+![Alt text](![output latihan](https://github.com/nurulaisyah14/praktikum5/assets/148174512/c6cc9433-ccca-4203-9d35-9f390a833040)
+
 
 ## Penjelasan
 
