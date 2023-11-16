@@ -120,11 +120,13 @@ print("+----+-----------------------+--------+--------+-------+-------+---------
 
 ## Output
 
-![Alt text](praktikum5.png)
+![Alt text](![output latihan](https://github.com/nurulaisyah14/praktikum5/assets/148174512/592b652c-68c7-42e6-b941-d5299fce0ba9)
+
 
 ## Flowchart
 
-![Alt text](flowchart.png)
+![Alt text](![fowchart](https://github.com/nurulaisyah14/praktikum5/assets/148174512/6cb4c824-66bd-460c-962c-1023524f64f8)
+
 
 ## Penjelasan
 
